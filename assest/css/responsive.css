@@ -1,4 +1,40 @@
 /*mobile*/
-@media screen and (max-width: 46.1875em) {
-    
+@media(min-width : 64em) {
+    .sidebar{
+        width: 10%;
+        height: 875px;
+    }
+    .body{
+        width: 90%;
+    }
+    .img_header{
+        margin: 20px auto;
+    }
+    .content_big{
+        width: 100%;
+    }
+    .content_big_tittle{
+        padding-top: 19px;
+    }
+    .content_big_heading{
+        padding: 19px 192px 38px;
+    }
+    .content_small{
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .content_small_first{
+        padding-right: 25px;
+    }
+    .content_small_third{
+        padding-left: 25px;
+    }
+    .content_small_heading{
+        padding-bottom: 24px;
+    }
+    .footer{
+        width: 100%;
+        margin-top: 148px;
+    }
+
 }

@@ -6,21 +6,23 @@
     }
     .body{
         width: 90%;
+        padding: 0 100px;
     }
     .img_header{
         margin: 20px auto;
     }
     .content_big{
         width: 100%;
+        margin: 20px auto;
     }
     .content_big_tittle{
         padding-top: 19px;
     }
     .content_big_heading{
-        padding: 19px 192px 38px;
+        padding: 19px 147px 38px;
     }
     .content_small{
-        font-size: 15px;
+        font-size: 12px;
         margin-top: 20px;
     }
     .content_small_first{

@@ -44,7 +44,7 @@
     margin: 20px auto;
 }
 .content_big{
-    margin: 30px auto;
+    margin: 40px auto;
     width: 1510px;
     height: 210px;
     background: #EFEFEF;
@@ -59,7 +59,7 @@
 }
 .content_big_heading{
     padding: 18px 269px 38px;
-    font-size: 16px;
+    font-size: 15px;
 }
 .content_small{
     display: flex;

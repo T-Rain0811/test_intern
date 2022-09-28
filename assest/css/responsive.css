@@ -2,7 +2,6 @@
 @media(min-width : 64em) {
     .sidebar{
         width: 10%;
-        height: 875px;
     }
     .body{
         width: 90%;
@@ -19,7 +18,7 @@
         padding-top: 19px;
     }
     .content_big_heading{
-        padding: 19px 147px 38px;
+        padding: 19px 175px 38px;
     }
     .content_small{
         font-size: 12px;
@@ -36,7 +35,6 @@
     }
     .footer{
         width: 100%;
-        margin-top: 148px;
     }
 
 }

@@ -7,8 +7,8 @@
     list-style-type: none;
 }
 .sidebar{
-    display: inline-block;
-    position: relative;
+    position: fixed;
+    top :0;
     width: 150px;
     height: 935px;
     background: #191718;
@@ -30,13 +30,13 @@
 }
 .sidebar li:hover{
     background-color: #5C5C5C;
+    cursor: default;
 }
 .body{
-    display: inline-block;
     position: absolute;
     width: 1768px;
     height: 935px;
-    padding: 0 129px;
+    left: 10%;
 }
 .img_header{
     width: 310px;
@@ -88,5 +88,6 @@
     font-weight: 400;
     font-size: 16px;
     color: #3E3E3E;
-    margin-top: 182px;
+    margin-top: 220px;
+
 }
